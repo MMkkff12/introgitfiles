@@ -1,0 +1,31 @@
+h1{color: blueviolet;
+    text-align: center;
+    outline-color: darkblue;
+
+
+}
+h2{color: rgb(119, 17, 97);
+    text-align: center;
+
+}
+h3{
+color: darkred;
+text-align: center;
+
+}
+h4,h5{color: rgb(88, 10, 62);
+    text-align: center;
+    
+
+
+}
+h6{color: red;
+    text-align: center;
+
+
+}
+button{color: navy;
+background-color: orange;}
+input{color: indigo;
+} input{background-color: rgb(232, 237, 241);}
+body{background-color: rgb(175, 137, 137);}
