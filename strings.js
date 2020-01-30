@@ -9,3 +9,8 @@ function dontHelp(){
     alert("Five People Were Eaten By A Baby Shark and Mama Shark Watched It All !!!!!")
 
 }
+
+function entname(){
+    var  enteredName = document.getElementById("nameentered").value;  
+    document.getElementById("name").innerHTML = enteredName;
+} 
