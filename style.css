@@ -28,4 +28,6 @@ button{color: navy;
 background-color: orange;}
 input{color: indigo;
 } input{background-color: rgb(232, 237, 241);}
-body{background-color: rgb(175, 137, 137);}
+body{background-color: rgb(175, 137, 137);
+text-align: center;
+}
